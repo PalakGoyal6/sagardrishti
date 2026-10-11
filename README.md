@@ -370,9 +370,3 @@ scoring:
 - **Ocean Dynamics**: Compatible with HYCOM (Hybrid Coordinate Ocean Model) and Copernicus Marine Environment Monitoring Service (CMEMS) NetCDF formats.
 - **Atmospheric Modeling**: Atmospheric wind velocity vectors derived from ECMWF ERA5 reanalysis datasets.
 - **Maritime Regulatory Standards**: Formatted to assist enforcement bodies in fulfilling MARPOL 73/78 (Annex I: Prevention of Pollution by Oil) reporting mandates.
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**. See the `LICENSE` file for full terms.
